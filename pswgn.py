@@ -5,7 +5,7 @@ import math
 
 def createblock(blocklength):
     random.seed(a=None)
-    chars =  string.ascii_uppercase + string.ascii_lowercase + string.digits + '§$%&?@€#ß'
+    chars =  string.ascii_uppercase + string.ascii_lowercase + string.digits + '=!§$%&?@€#ß'
     password = ''
     passwordlength = blocklength
     for c in range(passwordlength):
