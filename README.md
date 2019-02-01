@@ -1,5 +1,5 @@
-## Description
-This is a super basic python password generator. It creates a password consiting of a number of blocks (numofblocks) which will have randomly chosen length (provided in blocklengths).
+## Description: Super Basic Python Password Generator
+Creates a password consiting of a number of blocks (numofblocks) which can/will have randomly chosen length (provided in blocklengths). The returned password has the highest entropy of the (bestoff) randomly generated ones.
 
 ## Usage
 ```python
