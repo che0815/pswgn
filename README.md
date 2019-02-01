@@ -4,7 +4,7 @@ The password can consist of the possible symbols:
 + string.ascii_uppercase: __ABCDEFGHIJKLMNOPQRSTUVWXYZ__
 + string.ascii_lowercase: __abcdefghijklmnopqrstuvwxyz__
 + string.digits: __0123456789__
-+ some symbols: __§$%&?@€#ß__
++ some symbols: __=!§$%&?@€#ß__
 
 ## Usage
 ```python
