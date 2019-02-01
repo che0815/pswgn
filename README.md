@@ -6,7 +6,8 @@ This is a super basic python password generator. It creates a password consiting
 from paswgen import createpassword
 numofblocks = 3
 blocklengths = 12345
-createpassword(numofblocks, blocklengths,100)
+bestoff = 100
+createpassword(numofblocks, blocklengths, bestoff)
 ```
 ```python
 e6LjO_psf9_#xUE4
