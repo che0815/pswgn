@@ -3,11 +3,11 @@ This is a super basic python password generator. It creates a password consiting
 
 ## Usage
 ```python
-from pswgn import createpassword  
-numofblocks = 3  
-blocklengths = 34  
-createpassword(numofblocks, blocklengths)  
+from paswgen import createpassword
+numofblocks = 3
+blocklengths = 12345
+createpassword(numofblocks, blocklengths,100)
 ```
 ```python
-Bf13_gkW_LM0b  
+e6LjO_psf9_#xUE4
 ```
